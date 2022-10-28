@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  apiServerUrl: "https://taljacob2.github.io/ng-playground"
 };
